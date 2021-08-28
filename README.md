@@ -6,9 +6,9 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: To acquire more and more knowledge
 - ⚡ Fun fact: I love to draw and play video games
-- :busts_in_silhouette: I have done C programming for 2 years
+- :busts_in_silhouette: I have done C++ programming for 2 years
 - :leaves: I am also doing a complete DSA bootcamp 
-- :bell: I have made a basic library manangemt program using C++
+- :bell: I have made a basic library manangemt project using C++
 
 ### Connect with me:
 
